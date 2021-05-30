@@ -1,0 +1,25 @@
+{
+    "settings.json": [
+        {
+            "operation": "PASTE",
+            "lines": 3,
+            "keyStrokeTimeStamp": "Tue Apr 06 2021 19:53:32",
+            "keyStrokeInfo": "{\r\n    \"liveServer.settings.port\": 5501\r\n}",
+            "position": "1,1"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Apr 09 2021 07:51:14",
+            "keyStrokeInfo": "5502",
+            "position": "2,33"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Apr 09 2021 07:51:15",
+            "keyStrokeInfo": "5503",
+            "position": "2,33"
+        }
+    ]
+}
